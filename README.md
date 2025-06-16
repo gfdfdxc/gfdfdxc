@@ -5,7 +5,8 @@
 - 🔑 My GPG public key is `7B35D4E790DA61CE`. You can find the full public key [here](https://github.com/gfdfdxc.gpg).
 
 ## 🔧 Skills & Interests
-- 🛠️  I enjoy playing in **Capture the Flag (CTF)** competitions, especially focusing on MISC challenges.
+- 🛠️ I enjoy playing in **Capture the Flag (CTF)** competitions, especially focusing on MISC challenges.
+- 🌐 Interested in **blockchain technology**
 - 💻 I'm proficient in **Python**, and can also write in JavaScript, C, and Java. Currently, I’m studying web development and exploring front-end and back-end technologies.
 - 🕹️ My Favourite Game Character is `Kaedehara Kazuha` from Genshin Impact
 - 🎮 I like playing `Minecraft`, `Assassin's Creed`, `Genshin Impact`, and `Ori`
